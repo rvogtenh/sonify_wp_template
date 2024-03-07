@@ -1,1 +1,1 @@
-# Sonify Wordpress Template"
+# Sonify Wordpress Template
